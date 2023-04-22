@@ -8,9 +8,6 @@
 
 <h3>Connect with me:</h3>
 
-<a href="https://twitter.com/net__rap" target="blank">
-  <img align="left" alt="Nikita Dannik | Twitter" width="20" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-</a>
 <a href="https://linkedin.com/in/oladuwki" target="blank">
   <img align="left" alt="Nikita Dannik | LinkedIn" width="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
